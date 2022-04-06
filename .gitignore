@@ -6,3 +6,5 @@ src/.ipynb_checkpoints/Experiment-checkpoint.ipynb
 data/Afternoon/*
 data/Evening/*
 src/.ipynb_checkpoints/*
+src/__pycache__/*
+data/CDMX/*
